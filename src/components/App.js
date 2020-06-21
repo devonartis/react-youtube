@@ -14,7 +14,7 @@ class App extends React.Component{
     }
 
     componentDidMount() {
-        this.onTermSubmit('React Js AWS Amplify');
+        this.onTermSubmit('Devon Artis');
     }
     onTermSubmit = async term => {
         // (await) to the promise returns
